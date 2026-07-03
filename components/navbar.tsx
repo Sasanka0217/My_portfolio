@@ -16,7 +16,7 @@ export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const [activeSection, setActiveSection] = useState("")
-  const cvUrl = "/SASANKA%20-%20CV.pdf"
+  const cvUrl = "/Sasanka_Pathirana_CV.pdf"
   const cvFileName = "Sasanka_Pathirana_CV.pdf"
 
   useEffect(() => {
